@@ -5,7 +5,7 @@ installCursor() {
         echo "Installing Cursor AI IDE..."
 
         # URLs for Cursor AppImage and Icon
-        CURSOR_URL="https://downloader.cursor.sh/linux/appImage/x64"
+        CURSOR_URL="https://downloads.cursor.com/production/5b19bac7a947f54e4caa3eb7e4c5fbf832389853/linux/x64/Cursor-1.1.6-x86_64.AppImage"
         ICON_URL="https://github.com/DanielXavierJob/install-cursor/blob/d2abcdd737281c5409e7c754315a47d2012a5264/cursor.png"
 
         # Paths for installation
